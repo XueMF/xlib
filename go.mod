@@ -1,4 +1,4 @@
-module github.com/XueMF/xlib
+module github.com/xueminfeng/xlib
 
 go 1.14
 
